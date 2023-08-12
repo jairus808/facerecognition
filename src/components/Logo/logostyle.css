@@ -1,0 +1,28 @@
+
+.tilt {
+    display: flex;
+    height: 150px;
+    width: 150px;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+    max: 50;
+    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);
+
+
+}
+
+.brain {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 130px;
+    width: 130px;
+}
+
+.tilt-card {
+    height: 150px;
+    width: 175px;
+    border: 20px;
+    box-shadow: 20px;
+}
